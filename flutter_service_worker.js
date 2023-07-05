@@ -3,13 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "e201ecef96e3b7b6e2b6d5b7eac843ec",
-"assets/AssetManifest.smcbin": "c74982b0f8ef5a70998bfa8285c1fb71",
+const RESOURCES = {"assets/AssetManifest.json": "a763e999e3c0677f86ea1dabcbf1f017",
+"assets/AssetManifest.smcbin": "5475631c53e53f0ac747b8278af47a2b",
 "assets/assets/icons/logo.png": "26c8bf4d404cb7d921f79e5e104153fb",
 "assets/assets/icons/tewi-inaba-holding.png": "9529abcf95eba7c6a70a666136cc1971",
+"assets/assets/images/burger_background.png": "d96461376b6e102d4c1663e6c145806e",
 "assets/assets/images/error.png": "34a3c86257800bf5e90595c112370b19",
 "assets/assets/images/gun.png": "eb466b5103ef84eaa3c6620f97682426",
 "assets/assets/images/hat1.png": "698ded9884e2700c20de4cb4e65b15b7",
+"assets/assets/images/neon_dark_sunset-1600x900.jpg": "68bea504b6e96bf818d7cf3ce7c2d894",
+"assets/assets/images/new_neon.jpg": "4ee52c6abf0e60b9388c7a08bbddb621",
 "assets/assets/images/tbh.jpeg": "6f1b16c620b402c069d7fa885a35fbca",
 "assets/assets/images/tbh2.png": "c0462571abdaa897d575268109d6d56d",
 "assets/assets/images/tewi-inaba-holding.png": "9529abcf95eba7c6a70a666136cc1971",
@@ -24,8 +27,8 @@ const RESOURCES = {"assets/AssetManifest.json": "e201ecef96e3b7b6e2b6d5b7eac843e
 "assets/assets/sounds/tbh2-ahh.mp3": "7f8e02bb6a3b37c3732ef47f1b613cae",
 "assets/assets/sounds/yippee-147032.mp3": "0225131c9e67434b9003e07a51808b0c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "7ab0a35b1d84fdd9e030fe34527c18d2",
-"assets/NOTICES": "9c9d85ba18f416d8ecaac8145046f011",
+"assets/fonts/MaterialIcons-Regular.otf": "16c5e80a6a730f386c6550419d5134bf",
+"assets/NOTICES": "d201876c169ce297e18253328c07ffc6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -41,9 +44,9 @@ const RESOURCES = {"assets/AssetManifest.json": "e201ecef96e3b7b6e2b6d5b7eac843e
 "icons/Icon-512.png": "5f93bc083177e346efab16676b9b75b0",
 "icons/Icon-maskable-192.png": "5a3a08bacc7bfa3e78a9d73df622a8c7",
 "icons/Icon-maskable-512.png": "5f93bc083177e346efab16676b9b75b0",
-"index.html": "e7e80d5d30f6e52450a7f8b127dcb90d",
-"/": "e7e80d5d30f6e52450a7f8b127dcb90d",
-"main.dart.js": "e4e673dc081402d6067785cb0c8e8842",
+"index.html": "da58230b2dbf7bdba81eb1204b8854e3",
+"/": "da58230b2dbf7bdba81eb1204b8854e3",
+"main.dart.js": "04c75449f25ad493679c8e0f20f7f3f6",
 "manifest.json": "fd5d0ca027a01e33948394244ad5a673",
 "version.json": "03acefc4795e8573b194262cd3a4419f"};
 // The application shell files that are downloaded before a service worker can
