@@ -1,11 +1,11 @@
 {
-    "name": "personal_website",
-    "short_name": "personal_website",
+    "name": "Flutter Cuaderno",
+    "short_name": "Cuaderno",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#hexcode",
-    "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "background_color": "#0000FF",
+    "theme_color": "#0000FF",
+    "description": "app de cuaderno",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
