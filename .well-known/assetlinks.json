@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.kommunity.app",
+			"sha256_cert_fingerprints": [
+				"A1:21:34:E8:B1:C8:52:C1:57:5D:1F:2B:18:E6:51:B5:5E:4C:A1:78:C5:20:98:4F:80:14:7E:07:F1:0A:65:A1"
+			]
+		}
+	}
+]
